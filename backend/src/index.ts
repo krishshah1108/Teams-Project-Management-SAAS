@@ -74,3 +74,5 @@ app.listen(config.PORT, async () => {
   console.log(`Server listening on port ${config.PORT} in ${config.NODE_ENV}`);
   await connectDatabase();
 });
+
+// Updated at commit 1: Initialize backend Express server setup
