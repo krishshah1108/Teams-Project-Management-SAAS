@@ -1,0 +1,1 @@
+Add passport configuration for OAuth providers - Implementation details
