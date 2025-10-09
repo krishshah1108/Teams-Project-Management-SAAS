@@ -12,3 +12,5 @@ const connectDatabase = async () => {
 };
 
 export default connectDatabase;
+
+// Updated at commit 3: Setup database connection
