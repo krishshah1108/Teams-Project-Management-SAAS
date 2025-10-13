@@ -186,3 +186,5 @@ export const verifyUserService = async ({
 
   return user.omitPassword();
 };
+
+// Updated at commit 5: Create user authentication service
