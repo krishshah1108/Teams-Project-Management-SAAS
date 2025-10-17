@@ -64,3 +64,5 @@ passport.use(
 
 passport.serializeUser((user: any, done) => done(null, user));
 passport.deserializeUser((user: any, done) => done(null, user));
+
+// Updated at commit 7: Add passport OAuth configuration
