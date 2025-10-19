@@ -87,3 +87,5 @@ export const logOutController = asyncHandler(
       .json({ message: "Logged out successfully" });
   }
 );
+
+// Updated at commit 8: Create auth controller endpoints
