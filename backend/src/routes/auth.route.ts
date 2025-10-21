@@ -33,3 +33,5 @@ authRoutes.get(
 );
 
 export default authRoutes;
+
+// Updated at commit 9: Setup authentication routes
