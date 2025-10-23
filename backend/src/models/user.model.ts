@@ -67,3 +67,5 @@ userSchema.methods.comparePassword = async function (value: string) {
 
 const UserModel = mongoose.model<UserDocument>("User", userSchema);
 export default UserModel;
+
+// Updated at commit 10: Create user model schema
