@@ -41,3 +41,5 @@ const WorkspaceModel = mongoose.model<WorkspaceDocument>(
 );
 
 export default WorkspaceModel;
+
+// Updated at commit 11: Implement workspace model
