@@ -30,3 +30,5 @@ workspaceRoutes.get("/analytics/:id", getWorkspaceAnalyticsController);
 workspaceRoutes.get("/:id", getWorkspaceByIdController);
 
 export default workspaceRoutes;
+
+// Updated at commit 14: Setup workspace routes
