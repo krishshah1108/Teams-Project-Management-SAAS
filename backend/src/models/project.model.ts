@@ -42,3 +42,5 @@ const projectSchema = new Schema<ProjectDocument>(
 
 const ProjectModel = mongoose.model<ProjectDocument>("Project", projectSchema);
 export default ProjectModel;
+
+// Updated at commit 15: Implement project model
