@@ -186,3 +186,5 @@ export const deleteProjectService = async (
 
   return project;
 };
+
+// Updated at commit 16: Add project service
