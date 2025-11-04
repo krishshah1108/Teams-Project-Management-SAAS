@@ -1,0 +1,1 @@
+Implement member service and permissions - Implementation details
