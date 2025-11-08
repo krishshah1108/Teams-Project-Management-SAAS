@@ -38,3 +38,5 @@ projectRoutes.get(
 );
 
 export default projectRoutes;
+
+// Updated at commit 18: Setup project routes
