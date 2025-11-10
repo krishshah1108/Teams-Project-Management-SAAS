@@ -82,3 +82,5 @@ const taskSchema = new Schema<TaskDocument>(
 const TaskModel = mongoose.model<TaskDocument>("Task", taskSchema);
 
 export default TaskModel;
+
+// Updated at commit 19: Create task model with status
