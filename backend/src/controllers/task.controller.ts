@@ -146,3 +146,5 @@ export const deleteTaskController = asyncHandler(
     });
   }
 );
+
+// Updated at commit 21: Add task controller endpoints
