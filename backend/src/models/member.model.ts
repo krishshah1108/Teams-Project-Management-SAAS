@@ -37,3 +37,5 @@ const memberSchema = new Schema<MemberDocument>(
 
 const MemberModel = mongoose.model<MemberDocument>("Member", memberSchema);
 export default MemberModel;
+
+// Updated at commit 23: Create member model
