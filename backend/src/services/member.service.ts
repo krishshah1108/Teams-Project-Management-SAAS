@@ -71,3 +71,5 @@ export const joinWorkspaceByInviteService = async (
 
   return { workspaceId: workspace._id, role: role.name };
 };
+
+// Updated at commit 24: Implement member service
