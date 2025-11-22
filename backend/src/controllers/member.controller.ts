@@ -21,3 +21,5 @@ export const joinWorkspaceController = asyncHandler(
     });
   }
 );
+
+// Updated at commit 25: Add member controller
