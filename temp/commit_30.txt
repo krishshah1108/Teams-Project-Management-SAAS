@@ -1,0 +1,1 @@
+Add validation for project creation - Implementation details
