@@ -6,3 +6,5 @@ const memberRoutes = Router();
 memberRoutes.post("/workspace/:inviteCode/join", joinWorkspaceController);
 
 export default memberRoutes;
+
+// Updated at commit 26: Setup member routes
