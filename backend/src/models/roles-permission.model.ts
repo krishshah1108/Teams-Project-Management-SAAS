@@ -36,3 +36,5 @@ const roleSchema = new Schema<RoleDocument>(
 
 const RoleModel = mongoose.model<RoleDocument>("Role", roleSchema);
 export default RoleModel;
+
+// Updated at commit 27: Create role-based access control
