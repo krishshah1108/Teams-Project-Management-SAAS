@@ -19,3 +19,5 @@ export const roleGuard = (
     );
   }
 };
+
+// Updated at commit 28: Implement roleGuard middleware
