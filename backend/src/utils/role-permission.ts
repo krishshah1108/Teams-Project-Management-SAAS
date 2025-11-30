@@ -43,3 +43,5 @@ export const RolePermissions: Record<RoleType, Array<PermissionType>> = {
     Permissions.EDIT_TASK,
   ],
 };
+
+// Updated at commit 29: Add role permission utils
