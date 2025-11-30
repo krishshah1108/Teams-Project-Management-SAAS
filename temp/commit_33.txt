@@ -1,0 +1,1 @@
+Setup Vite config for frontend build - Implementation details
