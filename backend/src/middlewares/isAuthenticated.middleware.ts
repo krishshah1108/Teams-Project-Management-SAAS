@@ -9,3 +9,5 @@ const isAuthenticated = (req: Request, res: Response, next: NextFunction) => {
 };
 
 export default isAuthenticated;
+
+// Updated at commit 31: Create authentication middleware
