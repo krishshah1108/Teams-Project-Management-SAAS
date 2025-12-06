@@ -46,3 +46,5 @@ export const errorHandler: ErrorRequestHandler = (
     error: error?.message || "Unknow error occurred",
   });
 };
+
+// Updated at commit 32: Add error handling middleware
