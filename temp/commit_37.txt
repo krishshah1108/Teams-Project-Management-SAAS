@@ -1,0 +1,1 @@
+Implement query provider for React Query - Implementation details
