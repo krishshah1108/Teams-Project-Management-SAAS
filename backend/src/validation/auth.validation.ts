@@ -19,3 +19,5 @@ export const loginSchema = z.object({
   email: emailSchema,
   password: passwordSchema,
 });
+
+// Updated at commit 34: Create auth validation rules
