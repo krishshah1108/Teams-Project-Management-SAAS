@@ -17,3 +17,5 @@ export const updateProjectSchema = z.object({
   name: nameSchema,
   description: descriptionSchema,
 });
+
+// Updated at commit 35: Add project validation schema
