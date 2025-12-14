@@ -46,3 +46,5 @@ export const updateTaskSchema = z.object({
   assignedTo: assignedToSchema,
   dueDate: dueDateSchema,
 });
+
+// Updated at commit 36: Implement task validation
