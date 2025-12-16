@@ -27,3 +27,5 @@ export const updateWorkspaceSchema = z.object({
   name: nameSchema,
   description: descriptionSchema,
 });
+
+// Updated at commit 37: Add workspace validation
