@@ -1,0 +1,1 @@
+Add project creation dialog modal - Implementation details
