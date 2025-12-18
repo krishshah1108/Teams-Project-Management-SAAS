@@ -11,3 +11,5 @@ export default defineConfig({
     },
   },
 });
+
+// Updated at commit 38: Setup Vite configuration
