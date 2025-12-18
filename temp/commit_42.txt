@@ -1,0 +1,1 @@
+Create task table with filters - Implementation details
