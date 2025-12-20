@@ -65,3 +65,5 @@ export default {
   },
   plugins: [require("tailwindcss-animate")],
 };
+
+// Updated at commit 39: Configure Tailwind CSS
