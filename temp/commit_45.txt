@@ -1,0 +1,1 @@
+Create member management interface - Implementation details
