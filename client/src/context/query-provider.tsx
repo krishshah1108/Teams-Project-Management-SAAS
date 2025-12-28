@@ -24,3 +24,5 @@ export default function QueryProvider({ children }: Props) {
     <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
   );
 }
+
+// Updated at commit 43: Add query provider
