@@ -1,0 +1,1 @@
+Add loading skeleton components - Implementation details
