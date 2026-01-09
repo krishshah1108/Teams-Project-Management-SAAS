@@ -35,3 +35,5 @@ const withPermission = (
 };
 
 export default withPermission;
+
+// Updated at commit 49: Implement permission HOC
