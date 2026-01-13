@@ -28,3 +28,5 @@ const useConfirmDialog = () => {
 };
 
 export default useConfirmDialog;
+
+// Updated at commit 51: Create confirm dialog hook
