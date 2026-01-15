@@ -52,3 +52,5 @@ function AppRoutes() {
 }
 
 export default AppRoutes;
+
+// Updated at commit 52: Setup routing configuration
