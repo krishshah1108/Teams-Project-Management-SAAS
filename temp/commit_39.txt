@@ -1,1 +1,0 @@
-Create sidebar component layout - Implementation details

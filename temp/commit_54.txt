@@ -1,1 +1,0 @@
-Create emoji picker for tasks - Implementation details

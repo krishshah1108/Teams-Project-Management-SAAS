@@ -1,1 +1,0 @@
-Create project model with relationships - Implementation details

@@ -1,1 +1,0 @@
-Implement workspace service logic - Implementation details

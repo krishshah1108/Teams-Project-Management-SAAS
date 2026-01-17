@@ -1,1 +1,0 @@
-Create user model and schema - Implementation details

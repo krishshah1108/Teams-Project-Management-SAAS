@@ -1,1 +1,0 @@
-Add project controller and CRUD endpoints - Implementation details

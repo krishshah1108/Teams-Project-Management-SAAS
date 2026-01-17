@@ -1,1 +1,0 @@
-Add member controller and routes - Implementation details

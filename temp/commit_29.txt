@@ -1,1 +1,0 @@
-Setup validation layer for auth endpoints - Implementation details

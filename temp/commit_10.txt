@@ -1,1 +1,0 @@
-Create workspace model and schema - Implementation details

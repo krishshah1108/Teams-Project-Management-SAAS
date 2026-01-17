@@ -1,1 +1,0 @@
-Add user profile component - Implementation details

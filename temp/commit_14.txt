@@ -1,1 +1,0 @@
-Implement project service and business logic - Implementation details

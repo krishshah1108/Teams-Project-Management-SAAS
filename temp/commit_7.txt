@@ -1,1 +1,0 @@
-Create auth controller and routes - Implementation details

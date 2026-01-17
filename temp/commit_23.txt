@@ -1,1 +1,0 @@
-Create roles and permissions model - Implementation details

@@ -1,1 +1,0 @@
-Add toast notification system - Implementation details

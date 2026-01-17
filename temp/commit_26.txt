@@ -1,1 +1,0 @@
-Implement authentication middleware - Implementation details
